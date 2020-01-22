@@ -1,7 +1,7 @@
 # Yahoo-Calendar-Web-Scraper
 
 [DISCONTINUED]
-Note: I was able to successfully pull sets of stocks and relevant information (price, volume, etc). I was able to filter through this data set to identify a set of stocks that fit my criteria however, the front end aspect was a challenge for me. I had decided to use Tkinter to build a GUI to display the information however I could not finish it. I decided to move onto more pressing projects, namely my <a href="https://github.com/kubakrzep9/Robotic-Arm-Interface">Robotic Arm Interface</a>, that I believed would be more beneficial. I intend on returning to this program concept, however I will most likely write it in Java and incorporate it into my <a href="https://github.com/kubakrzep9/Trader-Tools">Trader-Tools app</a>. 
+Note: I was able to successfully pull sets of stocks and relevant information (price, volume, etc). I was able to filter through this data set to identify a set of stocks that fit my criteria however, the front end aspect was a challenge for me. I had decided to use Tkinter to build a GUI to display the information but, I could not finish it. I decided to move onto more pressing projects, namely my <a href="https://github.com/kubakrzep9/Robotic-Arm-Interface">Robotic Arm Interface</a>, that I believed would be more beneficial. I intend on returning to this program concept, however I will most likely write it in Java and incorporate it into my <a href="https://github.com/kubakrzep9/Trader-Tools">Trader-Tools app</a>. 
 
 
 
